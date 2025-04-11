@@ -29,7 +29,7 @@ Além disso, após o cadastro, um e-mail de confirmação é enviado para o usu�
    Abra o terminal e digite:
 
    ```bash
-   git clone https://github.com/igorlds07/desafio-login
+   git clone https://github.com/igorlds07/login_e_cadastro-django
    
 Instalar as dependências:
 Certifique-se de estar no diretório do projeto e tenha um ambiente virtual Python ativado. Execute o seguinte comando:
